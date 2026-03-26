@@ -3,7 +3,7 @@ import java.util.Map;
 
 class RoomBaseUC3 {
     protected String roomType;
-    protected int beds;
+    protecteqd int beds;
     protected double price;
 
     public RoomBaseUC3(String roomType, int beds, double price) {
